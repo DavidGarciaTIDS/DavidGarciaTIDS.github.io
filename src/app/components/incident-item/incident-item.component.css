@@ -1,0 +1,24 @@
+*{
+    background-color: darkgray;
+    padding: 4px;
+    color:whitesmoke;
+    margin-bottom:3px ;
+}
+img{
+    display: flex;
+    margin:auto;
+    max-width: auto;
+    max-height:175px;
+}
+span{
+    padding: 5px;
+    margin: auto 45%;
+}
+.image{
+    width: 95%;
+    display: block;
+}
+.incident{
+    display: block;
+    margin:auto;
+}
